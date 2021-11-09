@@ -1,0 +1,14 @@
+{
+  "name": "aoc2020-tdd",
+  "version": "1.0.0",
+  "description": "Guided TDD approach for solving AOC2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andrew Whitehouse",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "27.3.1"
+  }
+}
